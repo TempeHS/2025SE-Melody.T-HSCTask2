@@ -1,10 +1,10 @@
-# Project Title
+# HSC Task 2
+ML Model for prescribing contact lenses.
 
-Simple overview of use/purpose.
+### Description
+A medical company has approached me as a Data Engineer to develop a model to be used as a contact lenses perscription service for doctors. The model will prescribe the type of contact lenses based on data in a patient's medical record. 
 
-## Description
-
-An in-depth paragraph about your project and overview of use.
+The **success metric** is to create a reliable ML model that can correctly identify the type of contact lenses based on data given.
 
 ## Getting Started
 
@@ -12,6 +12,9 @@ An in-depth paragraph about your project and overview of use.
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
+
+- [Pandas](https://pandas.pydata.org/): library for data analysis and manipulation.
+- [Matplotlib](https://matplotlib.org): library for creating static, animated, and interactive visualizations in Python. A customised stylesheet for the visualisations is also applied.
 
 ### Installing
 
@@ -28,7 +31,7 @@ code blocks for commands
 
 ## Help
 
-Any advise for common problems or issues.
+Any advice for common problems or issues.
 ```
 command to run if program contains helper info
 ```
@@ -50,11 +53,12 @@ ex. [@benpaddlejones](https://github.com/benpaddlejones)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
+* [Dataset used](https://www.openml.org/search?type=data&status=active&id=1419&sort=runs)
 * [Github md syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [TempeHS Jupyter-Notebook template](https://github.com/TempeHS/TempeHS_Jupyter-Notebook_DevContainer)
 * [Practical Application of NESA Software Engineering MLOps](https://github.com/TempeHS/Practical-Application-of-NESA-Software-Engineering-MLOps)
