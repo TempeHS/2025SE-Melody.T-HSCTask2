@@ -4,7 +4,7 @@ ML Model for prescribing contact lenses.
 ### Description
 A medical company has approached me as a Data Engineer to develop a model to be used as a contact lenses perscription service for doctors. The model will prescribe the type of contact lenses based on data in a patient's medical record. 
 
-The **success metric** is to create a reliable ML model that can correctly identify the type of contact lenses based on data given.
+The **success metric** is to create a model with 80% or higher reliability and that can correctly identify the type of contact lenses based on data given.
 
 ## Getting Started
 
